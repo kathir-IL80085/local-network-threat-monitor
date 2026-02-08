@@ -53,7 +53,7 @@ Detected Anomalies: None
 ## ⚙ Installation & Usage
 
 ```
-git clone https://github.com/kathir-IL80085/Local-Network-Threat-Monitor.git
+git clone https://github.com/kathir-IL80085/local-network-threat-monitor.git
 cd Local-Network-Threat-Monitor
 pip install -r requirements.txt
 python src/main.py
@@ -135,3 +135,4 @@ Use this tool only on networks you own or have permission to monitor.
 Kathiresh
 
 If you find this useful, feel free to ⭐ the repository.
+
