@@ -55,7 +55,7 @@ Detected Anomalies: None
 ```
 git clone https://github.com/kathir-IL80085/local-network-threat-monitor.git
 cd Local-Network-Threat-Monitor
-pip install -r requirements.txt
+pip install -r requirement.txt
 python src/main.py
 ```
 ---
